@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.discogs.com	TRUE	/	FALSE	1999999999	__cf_bm	IvVvxNjIe2obrNrwP3ks5V6iAqlsAbMzyz80wfcyJRA-1684373804-0-AUqpqYpeB7WzHHuUXjuzmZM9o3j+J3qTzTVgXq75FNVoTFcAKKQhGY8+GUtSE2wgDq8vxgMh0cRAz7r+LzuFcTo=
+img.discogs.com	TRUE	/	FALSE	1999999999	SameSite	None
+.datingadvice.com	TRUE	/	FALSE	1999999999	__cf_bm	hnOBDXjDagp7CPzstLyuwy65bODWHYlNKztX1yJrfhs-1684373871-0-ARJcx1PlshiZn5rJKj6vIstg+QiQIaLRZLliveMj3hmFhRIMNtUi22DiZm8cOifzY66glqd+uAr2Fc5STCVvHTbVe/7UQEt5U+kBFxHYhSPI
+www.datingadvice.com	TRUE	/	FALSE	1999999999	SameSite	None
+

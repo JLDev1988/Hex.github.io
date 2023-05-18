@@ -1,0 +1,227 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 May 2023 19:30:08 at https://hexacontrol.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hexacontrol.ca/ -O1 "D:\lat3\proj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:30:37	Error: 	"Method Not Allowed" (405) at link https://hexacontrol.ca/xmlrpc.php (from https://hexacontrol.ca/)
+19:31:10	Error: 	"Not Found" (404) at link https://hexacontrol.ca/home-automation/ (from https://hexacontrol.ca/)
+19:31:52	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=169
+19:31:52	Warning: 	File has moved from https://hexacontrol.ca/?p=169 to https://hexacontrol.ca/about/
+19:31:52	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=801
+19:31:52	Warning: 	File has moved from https://hexacontrol.ca/?p=801 to https://hexacontrol.ca/home-surveillance/
+19:31:52	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=809
+19:31:52	Warning: 	File has moved from https://hexacontrol.ca/?p=809 to https://hexacontrol.ca/home-networking/
+19:31:52	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1906
+19:31:52	Warning: 	File has moved from https://hexacontrol.ca/?p=1906 to https://hexacontrol.ca/home-surveillance-ontario/
+19:31:52	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1876
+19:31:52	Warning: 	File has moved from https://hexacontrol.ca/?p=1876 to https://hexacontrol.ca/home-networking-ontario/
+19:32:11	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/swoop-evaluation-a-what-exactly-do-we-know-about-any-of-it/ (from https://hexacontrol.ca/blog/)
+19:32:49	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=771
+19:32:49	Warning: 	File has moved from https://hexacontrol.ca/?p=771 to https://hexacontrol.ca/contact/
+19:33:02	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=11
+19:33:02	Warning: 	File has moved from https://hexacontrol.ca/?p=11 to https://hexacontrol.ca/cart/
+19:33:02	Warning: 	Found for https://hexacontrol.ca/checkout/
+19:33:02	Warning: 	File has moved from https://hexacontrol.ca/checkout/ to https://hexacontrol.ca/cart/
+19:33:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/category/mostbet-kazinosu/ (from https://hexacontrol.ca/cart/)
+19:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/wp-content/themes/woodmart/css/parts/woo-mod-grid.min.css?ver=6.3.0 (from https://hexacontrol.ca/my-account/)
+19:33:52	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=13
+19:33:52	Warning: 	File has moved from https://hexacontrol.ca/?p=13 to https://hexacontrol.ca/my-account/
+19:33:57	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/news-bias-fact-checka¢-offers-a-reliable-resource-for-couples-seeking-typical-ground-on-political-problems/ (from https://hexacontrol.ca/blog/page/2/)
+19:34:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/mostbet-review-in-india-withdrawal-methods-login-195/ (from https://hexacontrol.ca/blog/page/2/)
+19:34:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/zerkalo-mostbet-aktualnoe-zerkalo-mostbet-na-346/ (from https://hexacontrol.ca/blog/page/2/)
+19:34:26	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/publishers-choice-award-sweetescapea¢-could-offer-worldly-partners-a-specialist-photo-capture-on-the-travels/ (from https://hexacontrol.ca/blog/page/2/)
+19:34:43	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1858
+19:34:43	Warning: 	File has moved from https://hexacontrol.ca/?p=1858 to https://hexacontrol.ca/denver-therapist-chelli-pumphrey-coaches-daters-towards-tackling-attachment-and-self-confidence-dilemmas/
+19:34:51	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1843
+19:34:51	Warning: 	File has moved from https://hexacontrol.ca/?p=1843 to https://hexacontrol.ca/the-prospr-dating-application-has-an-icebreaker-ability-to-spark-a-lot-more-appealing-talks/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1841
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1841 to https://hexacontrol.ca/mostbet-oficialnyj-sajt-rabochee-zerkalo-kazino-259/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1839
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1839 to https://hexacontrol.ca/mostbet-partners-otzyvy-obzor-partnerskoj-42/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1837
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1837 to https://hexacontrol.ca/mostbet-skachat-besplatno-prilozhenie-na-android-i-97/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1835
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1835 to https://hexacontrol.ca/nostringsdating-net-where-mature-singles-can-pursue-hot-dates-one-night-stands/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1833
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1833 to https://hexacontrol.ca/localflirtmatches-com-appears-authentic-but-is-it-check-out-this-evaluation-learn-the-reality/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1860
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1860 to https://hexacontrol.ca/mac-tools-appointments-apps/
+19:34:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1856
+19:34:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1856 to https://hexacontrol.ca/avast-password-off-shoot-for-chromium/
+19:35:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/blog/page/8/ (from https://hexacontrol.ca/blog/page/10/)
+19:35:54	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1665
+19:35:54	Warning: 	File has moved from https://hexacontrol.ca/?p=1665 to https://hexacontrol.ca/sh1m1zu-was-here-lmao/
+19:36:00	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1
+19:36:00	Warning: 	File has moved from https://hexacontrol.ca/?p=1 to https://hexacontrol.ca/hello-world/
+19:36:18	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/naushniki-razer-tradeallcrypto-black-kupitь-v/ (from https://hexacontrol.ca/2023/03/)
+19:36:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/i-made-3million-in-cryptocurrency-and-these-are/ (from https://hexacontrol.ca/2022/10/)
+19:36:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/plus-500-canada-trading-at-plus-500-for-canadians/ (from https://hexacontrol.ca/2022/09/)
+19:37:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/suggestions-for-successful-sweets-daddies-and-babies-relationships/ (from https://hexacontrol.ca/2022/08/)
+19:37:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/the-most-inexpensive-surveillance-systems-in-2022/ (from https://hexacontrol.ca/2022/07/)
+19:37:23	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/kupitь-allround-automations-pl-sql-developer-v/ (from https://hexacontrol.ca/2022/03/)
+19:37:31	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1825
+19:37:31	Warning: 	File has moved from https://hexacontrol.ca/?p=1825 to https://hexacontrol.ca/how-to-prevent-internet-dating-scams-utilizing-technology-in-2020/
+19:37:31	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1821
+19:37:31	Warning: 	File has moved from https://hexacontrol.ca/?p=1821 to https://hexacontrol.ca/mostbet-india-review-2023-don-t-miss-your-25-000-404/
+19:37:34	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1817
+19:37:34	Warning: 	File has moved from https://hexacontrol.ca/?p=1817 to https://hexacontrol.ca/mostbet-app-download-for-android-ios-in-2023-373/
+19:37:36	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1813
+19:37:36	Warning: 	File has moved from https://hexacontrol.ca/?p=1813 to https://hexacontrol.ca/mostbet-oficialnyj-sajt-mostbet-zerkalo-skachat-842/
+19:37:36	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1811
+19:37:36	Warning: 	File has moved from https://hexacontrol.ca/?p=1811 to https://hexacontrol.ca/exposed-uksexfling-com-is-actually-a-smoke-monitor-hiding-a-fraud/
+19:37:36	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1807
+19:37:36	Warning: 	File has moved from https://hexacontrol.ca/?p=1807 to https://hexacontrol.ca/onspeeddating-pioneered-exclusively-increase-dating-in-2008-today-hosts-quality-controlled-events-for-singles/
+19:38:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/luvfree-com-celebrates-the-11th-anniversary-continues-helping-genuine-men-women/ (from https://hexacontrol.ca/category/uncategorized/page/3/)
+19:38:07	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/relationships-australia-nswa¢-works-couples-family-members-and-communities-develop-better-bonds-through-guidance-and-education/ (from https://hexacontrol.ca/category/uncategorized/page/3/)
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1803
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1803 to https://hexacontrol.ca/the-reducetarian-base-champions-a-movement-to-motivate-singles-partners-to-lessen-on-the-chicken-intake/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1799
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1799 to https://hexacontrol.ca/azrbaycan-mrc-sayt-12521/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1797
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1797 to https://hexacontrol.ca/tyyar-oyunu-mostbet-mostbet-aviator-game-1060/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1795
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1795 to https://hexacontrol.ca/oficialnyj-sajt-s-licenziej-android-prilozhenie-117/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1793
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1793 to https://hexacontrol.ca/adil-ticaret-komisyonu-bircok-irketin-6-haksz-38/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1791
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1791 to https://hexacontrol.ca/skachat-mobilnoe-prilozhenie-1xwin-67/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1789
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1789 to https://hexacontrol.ca/giri-364/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1787
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1787 to https://hexacontrol.ca/mostbet-twitter-2022-adres-deiim-linkleri-559/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1785
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1785 to https://hexacontrol.ca/resmi-site-casino-mostbet-para-icin-mostbet-calma-3103/
+19:38:07	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1783
+19:38:07	Warning: 	File has moved from https://hexacontrol.ca/?p=1783 to https://hexacontrol.ca/mostbet-turkiye-icin-en-guvenilir-bahis-ve-casino-4520/
+19:38:13	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/his-secret-fixation-evaluation-for-2020-a-hero-instinct-review/ (from https://hexacontrol.ca/blog/page/5/)
+19:38:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/blog/page/7/ (from https://hexacontrol.ca/blog/page/5/)
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1708
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1708 to https://hexacontrol.ca/reconciling-a-bank-statement-chron-com/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1767
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1767 to https://hexacontrol.ca/download-free-word-excel-and-pdf-blank-invoice/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1831
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1831 to https://hexacontrol.ca/statement-s-perevodom-stejtment-konteksty-i/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1714
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1714 to https://hexacontrol.ca/days-inventory-outstanding-dio-what-retailers-need/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1682
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1682 to https://hexacontrol.ca/illinois-tax-rates-rankings-illinois-state-taxes/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1688
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1688 to https://hexacontrol.ca/solana-price-index-market-current-stats/
+19:38:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/blog/page/8/ (from https://hexacontrol.ca/blog/page/10/)
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1672
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1672 to https://hexacontrol.ca/sustanon-250-steroid-tutto-cio-che-devi-sapere/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1698
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1698 to https://hexacontrol.ca/how-to-fix-the-iphone-keeps-restarting-or-crashing-2/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1745
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1745 to https://hexacontrol.ca/class-9-economics-chapter-1-the-story-of-the/
+19:38:20	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1765
+19:38:20	Warning: 	File has moved from https://hexacontrol.ca/?p=1765 to https://hexacontrol.ca/w-d-gann-square-calculator-pdf-technical-analysis/
+19:38:32	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/ms-hitch-is-actually-a-no-nonsense-coach-and-matchmaker-exactly-who-works-people-get-a-and-stay-a-hitched/ (from https://hexacontrol.ca/2023/05/page/6/)
+19:38:32	Error: 	"Error when decompressing" (-1) at link https://hexacontrol.ca/refused-by-every-girl-how-to-turn-situations-arounda¦/ (from https://hexacontrol.ca/2023/05/page/6/)
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1680
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1680 to https://hexacontrol.ca/kids-work-and-marijuana-stocks-15/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1696
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1696 to https://hexacontrol.ca/gaslighting-in-interactions-definition/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1660
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1660 to https://hexacontrol.ca/hook-up-on-tinder/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1674
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1674 to https://hexacontrol.ca/charles-schwab-high-yield-investor-checking/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1692
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1692 to https://hexacontrol.ca/online-dating-services-first-night-out-statistics/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1702
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1702 to https://hexacontrol.ca/what-you-should-get-dude-for-wedding-anniversary/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1694
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1694 to https://hexacontrol.ca/the-psychology-of-online-dating/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1712
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1712 to https://hexacontrol.ca/swedish-popular-metropolitan-areas-for-flirting/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1690
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1690 to https://hexacontrol.ca/online-dating-safety-strategies/
+19:38:38	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1684
+19:38:38	Warning: 	File has moved from https://hexacontrol.ca/?p=1684 to https://hexacontrol.ca/tricks-for-successful-sugar-daddies-and-babies-romantic-relationships/
+19:38:40	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1634
+19:38:40	Warning: 	File has moved from https://hexacontrol.ca/?p=1634 to https://hexacontrol.ca/pros-and-cons-of-gsm-home-alarm-systems-in-2022/
+19:38:43	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1628
+19:38:43	Warning: 	File has moved from https://hexacontrol.ca/?p=1628 to https://hexacontrol.ca/wireless-network-security-for-small-businesses-in-2022/
+19:38:50	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1704
+19:38:50	Warning: 	File has moved from https://hexacontrol.ca/?p=1704 to https://hexacontrol.ca/forex-trading-strategies/
+19:38:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hexacontrol.ca/wp-json/wp/v2/posts/1616 (from https://hexacontrol.ca/the-best-spy-and-body-cameras-in-2022-for-self-protection/)
+19:38:53	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1616
+19:38:53	Warning: 	File has moved from https://hexacontrol.ca/?p=1616 to https://hexacontrol.ca/the-best-spy-and-body-cameras-in-2022-for-self-protection/
+19:38:57	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1829
+19:38:57	Warning: 	File has moved from https://hexacontrol.ca/?p=1829 to https://hexacontrol.ca/die-beste-chatbot-software-fur-ihr-unternehmen/
+19:38:57	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1611
+19:38:57	Warning: 	File has moved from https://hexacontrol.ca/?p=1611 to https://hexacontrol.ca/5-applications-of-virtual-assistants-in-home-automation/
+19:38:59	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1606
+19:38:59	Warning: 	File has moved from https://hexacontrol.ca/?p=1606 to https://hexacontrol.ca/the-worldwide-industry-for-home-automation-and-security-systems-2022-2027/
+19:39:01	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1733
+19:39:01	Warning: 	File has moved from https://hexacontrol.ca/?p=1733 to https://hexacontrol.ca/dcy-0-dinastycoin-price-chart-value-news-market/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1592
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1592 to https://hexacontrol.ca/how-our-smart-home-technology-is-changing-your-homes/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1723
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1723 to https://hexacontrol.ca/online-course-become-a-junior-wordpress-developer/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1771
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1771 to https://hexacontrol.ca/chto-takoe-proof-of-stake-prostymi-slovami-majning/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1854
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1854 to https://hexacontrol.ca/new-posts/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1819
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1819 to https://hexacontrol.ca/mostbet-review-in-india-withdrawal-methods-login-195/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1815
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1815 to https://hexacontrol.ca/zerkalo-mostbet-aktualnoe-zerkalo-mostbet-na-346/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1781
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1781 to https://hexacontrol.ca/never-only-gamble-hard-to-get-end-up-being-hard-to-get/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1777
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1777 to https://hexacontrol.ca/christian-relationship-evaluation/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1775
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1775 to https://hexacontrol.ca/zenome-models-genomic-evaluating-more-accessible-to-assist-singles-partners-families-organizations-build-better-lifestyles/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1763
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1763 to https://hexacontrol.ca/konnte-das-sein-pua-dry/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1761
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1761 to https://hexacontrol.ca/6-increible-beneficios-de-las-citas-dentro-de-40/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1759
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1759 to https://hexacontrol.ca/die-erste-sache-sie-mussen-wirklich-zustand-wann-immer-online-dating-sites/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1757
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1757 to https://hexacontrol.ca/tantan-analyse-que-faire-nous-savons/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1755
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1755 to https://hexacontrol.ca/sobre-incrementar-autoestima-y-fortalecer-el-carisma/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1753
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1753 to https://hexacontrol.ca/warum-twitter-und-dating-nicht-mischen/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1751
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1751 to https://hexacontrol.ca/kompromiss-in-beziehungen-12-geheimnisse-zu-biegen-anstelle-von-splitting/
+19:39:03	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1749
+19:39:03	Warning: 	File has moved from https://hexacontrol.ca/?p=1749 to https://hexacontrol.ca/evaluation-yourtravelmates-com-the-deceptions-that-we-present-your-researching/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1743
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1743 to https://hexacontrol.ca/feeld-evaluation/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1739
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1739 to https://hexacontrol.ca/getting-beyond-the-most-important-date/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1737
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1737 to https://hexacontrol.ca/alua-assessment/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1729
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1729 to https://hexacontrol.ca/thaicupid-review-2021/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1727
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1727 to https://hexacontrol.ca/learning-to-make-a-woman-fall-in-love/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1725
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1725 to https://hexacontrol.ca/how-come-this-month-distinctive-from-other-people-for-on-the-web-daters/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1720
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1720 to https://hexacontrol.ca/we-prove-that-mysecretfling-com-is-dishonest-a-myriad-of-lies/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1718
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1718 to https://hexacontrol.ca/solitary-for-romantic-days-celebration-here-is-tips-enjoy/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1706
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1706 to https://hexacontrol.ca/all-of-us-want-like-exactly-why-you-dont-have-to-put-it-in-your-profile/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1700
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1700 to https://hexacontrol.ca/things-need-before-breaking-up-as-a-result-of-the-gender/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1852
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1852 to https://hexacontrol.ca/i-made-3million-in-cryptocurrency-and-these-are/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1769
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1769 to https://hexacontrol.ca/plus-500-canada-trading-at-plus-500-for-canadians/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1686
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1686 to https://hexacontrol.ca/suggestions-for-successful-sweets-daddies-and-babies-relationships/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1602
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1602 to https://hexacontrol.ca/the-most-inexpensive-surveillance-systems-in-2022/
+19:39:06	Warning: 	Moved Permanently for https://hexacontrol.ca/?p=1747
+19:39:06	Warning: 	File has moved from https://hexacontrol.ca/?p=1747 to https://hexacontrol.ca/luvfree-com-celebrates-the-11th-anniversary-continues-helping-genuine-men-women/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 58 seconds : 1022 links scanned, 900 files written (40086697 bytes overall) [22067417 bytes received at 41017 bytes/sec], 25931030 bytes transferred using HTTP compression in 480 files, ratio 26%, 5.0 requests per connection
+(11 errors, 205 warnings, 0 messages)
